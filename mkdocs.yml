@@ -11,4 +11,4 @@ theme: 'readthedocs'
 repo_url: https://github.com/dcmi/dcmi_events
 repo_name: 'Github'
 edit_uri: 'edit/master/docs/'
-site_description: 'For supporting participation in DCMI virtual events'
+site_description: 'To support participation in DCMI Virtual 2020'
