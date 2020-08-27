@@ -1,0 +1,14 @@
+site_name: DCMI Virtual - instructions
+nav:
+    - About DCMI Virtual: 'index.md'
+    - Attendees: 'attendees.md'
+    - Panelists: 'panelists.md'
+    - Hosts: 'hosts.md'
+    - Issues: 'issues.md'
+markdown_extensions:
+    - tables
+theme: 'readthedocs'
+repo_url: https://github.com/dcmi/dcmi_events
+repo_name: 'Github'
+edit_uri: 'edit/master/docs/'
+site_description: 'For supporting participation in DCMI virtual events'
